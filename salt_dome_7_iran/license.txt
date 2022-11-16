@@ -1,0 +1,11 @@
+Model Information:
+* title:	Salt dome 7, Iran
+* source:	https://sketchfab.com/3d-models/salt-dome-7-iran-94ba1b9defb34720b3e0c55d14764aff
+* author:	Sara Carena (https://sketchfab.com/saracarena1)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Salt dome 7, Iran" (https://sketchfab.com/3d-models/salt-dome-7-iran-94ba1b9defb34720b3e0c55d14764aff) by Sara Carena (https://sketchfab.com/saracarena1) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
